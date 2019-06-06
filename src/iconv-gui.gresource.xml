@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gnome/Iconv-Gui">
+    <file compressed="true">window.ui</file>
+    <file>target.png</file>
+  </gresource>
+</gresources>

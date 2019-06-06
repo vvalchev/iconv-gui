@@ -1,0 +1,5 @@
+data/org.gnome.Iconv-Gui.desktop.in
+data/org.gnome.Iconv-Gui.appdata.xml.in
+data/org.gnome.Iconv-Gui.gschema.xml
+src/window.uisrc/main.vala
+src/window.vala

@@ -1,0 +1,14 @@
+[default-2]
+name=Default (Copy)
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/fire/.cache/gnome-builder/install/iconv-gui/host
+app-id=
+postbuild=
+prebuild=
+
+[default-2.environment]
+V=1
+CFLAGS=-O2
+CXXFLAGS=-O2

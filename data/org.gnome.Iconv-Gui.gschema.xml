@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="iconv-gui">
+	<schema id="org.gnome.Iconv-Gui" path="/org/gnome/Iconv-Gui/">
+	  <key name="from-encoding" type="s">
+	    <default>"windows-1251"</default>
+      <summary>From Encoding</summary>
+      <description>
+        The character set of the source file.
+      </description>
+    </key>
+	  <key name="to-encoding" type="s">
+	    <default>"utf-8"</default>
+      <summary>To Encoding</summary>
+      <description>
+        The character set of the destination file.
+      </description>
+    </key>
+	</schema>
+</schemalist>
